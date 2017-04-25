@@ -1,1 +1,1 @@
-This is the story of a boy on a journey to master computer programming. He joined Actualize boot camp to start his journey. He is enjoying it so far.
+This is the story of a boy on a journey to master computer programming. He joined Actualize boot camp to start his journey. He is enjoying it so far. We are learning to push our changes to github.
